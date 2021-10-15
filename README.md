@@ -14,7 +14,7 @@ Instructions for installation.
 1. Copy the SW directory to C:\\Program Files (x86).
 2. Install MiKTeX if it is already installed.
 3. If you expect to edit documents created by versions 5.5 and earlier, then
-	- Copy the texmf-local directory to your user directory (C:\\Users\\<your login name>), or some other location you prefer.
+	- Copy the texmf-local directory to your user directory (C:\\Users\\*your_login_name*), or some other location you prefer.
 	- Start the MiKTeX console and select whether you want to run in Administrator or User mode. User mode should be sufficient unless you put the texmf-local directory in a location that requires administrator permissions.
 	- Click on 'Settings' in the sidebar on the left, and on the 'Directories' tab.
 	- Click on the '+' button in the toolbar just above the 'Path' window.
