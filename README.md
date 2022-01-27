@@ -1,6 +1,8 @@
 Scientific Word is now open source. 
 
-The source code is not yet on GitHub, since traces of non-public source are still being removed. However, a copy of the executable for Windows, version 6.1.2, is now posted. The instructions for installing it on Windows are:
+The source code is on Github, at https://github.com/ScientificWord/mozilla. Instructions on how to build the project, as well as discussion of bugs, gotchas, etc. should be coming soon.
+
+A copy of the executable for Windows, version 6.1.2, is now posted. The instructions for installing it on Windows are:
 
 1. Install MiKTeX and the MiKTeX console. These require Windows 8 or later.
 2. Download the SciWord.zip file [HERE](https://www.mackichan.com/techtalk/v60/SciWord.zip).
